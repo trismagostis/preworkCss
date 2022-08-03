@@ -19,3 +19,16 @@ h1 {
 span {
     color:#ff0000;
 }
+h1 {
+    color:#ff0000;
+    text-align: left;
+}
+body { 
+    background-color: #faebd6;
+}
+p {
+    color:#00008f
+}
+#pierwszy {
+    color:#a42423;
+}
