@@ -2,6 +2,7 @@ div {
     background-color: #fea500;
     height: 10em;
     width: 10em;
+    vertical-align: middle;
 }
 h1 {
     color:#ffffff;
@@ -27,8 +28,23 @@ body {
     background-color: #faebd6;
 }
 p {
-    color:#00008f
+    color:#00008f;
 }
 #pierwszy {
     color:#a42423;
+}
+body {
+    background-color: #f5f5dd;
+}
+#pierwszy{
+    background-color: #000000;
+    }
+#drugi{
+    background-color: #00000075;
+}
+#trzeci{
+    background-color: #00000050;
+}
+#czwarty{
+    background-color: #00000025;
 }
