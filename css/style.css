@@ -65,14 +65,28 @@ p {
 #piec {
     color:#ff000015;
 }
-p{
+/*p{
     background-color: #ff0000;
     height: 100px;
     width: 100px;
-}
+}*/
 .niebieski {
     background-color: #0000ff;
 }
 .przezroczysty {
     opacity: 50%;
+}
+p {
+    color:#00ff00;
+}
+h1{
+    
+    background-color: #808080;
+}
+h3 {
+    
+    background-color: #0000ff;
+}
+h1 + h3 {
+    color: #a42423;
 }
