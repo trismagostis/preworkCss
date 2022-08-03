@@ -65,3 +65,14 @@ p {
 #piec {
     color:#ff000015;
 }
+p{
+    background-color: #ff0000;
+    height: 100px;
+    width: 100px;
+}
+.niebieski {
+    background-color: #0000ff;
+}
+.przezroczysty {
+    opacity: 50%;
+}
