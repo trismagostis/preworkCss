@@ -9,3 +9,13 @@ h1 {
 body {
     background-color: #808080;
 }
+body {
+    background-color: #ffffff;
+}
+h1 {
+    color:#0000ff;
+    text-align: center;
+}
+span {
+    color:#ff0000;
+}
