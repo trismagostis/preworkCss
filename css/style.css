@@ -1,4 +1,4 @@
-div {
+/*div {
     background-color: #fea500;
     height: 10em;
     width: 10em;
@@ -11,7 +11,7 @@ body {
 }
 body {
     background-color: #ffffff;
-}
+}*/
 h1 {
     color:#0000ff;
     text-align: center;
@@ -19,7 +19,7 @@ h1 {
 span {
     color:#ff0000;
 }
-h1 {
+/*h1 {
     color:#ff0000;
     text-align: left;
 }
@@ -65,11 +65,11 @@ p {
 #piec {
     color:#ff000015;
 }
-/*p{
+p{
     background-color: #ff0000;
     height: 100px;
     width: 100px;
-}*/
+}
 .niebieski {
     background-color: #0000ff;
 }
@@ -89,4 +89,4 @@ h3 {
 }
 h1 + h3 {
     color: #a42423;
-}
+}*/
