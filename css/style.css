@@ -11,15 +11,15 @@ body {
 }
 body {
     background-color: #ffffff;
-}*/
+}
 h1 {
     color:#0000ff;
     text-align: center;
 }
 span {
     color:#ff0000;
-}
-/*h1 {
+}*/
+h1 {
     color:#ff0000;
     text-align: left;
 }
@@ -32,7 +32,7 @@ p {
 #pierwszy {
     color:#a42423;
 }
-body {
+/*body {
     background-color: #f5f5dd;
 }
 #pierwszy{
